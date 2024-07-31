@@ -3,6 +3,4 @@ This is a simple implementation of the classic Tic Tac Toe game in Java. The ini
 
 Credits:
 
-The basic structure and initial code were inspired by a YouTube tutorial by bro code. Significant additional logic and enhancements were implemented independently.
-
-for example:tie case and game restart.
+The basic structure and initial code were inspired by a YouTube tutorial by bro code. Significant additional logic and enhancements were implemented independently like tie case and game restart etc.
